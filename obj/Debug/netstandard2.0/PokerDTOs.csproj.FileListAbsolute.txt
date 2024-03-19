@@ -1,0 +1,10 @@
+C:\Trick Gaming Studios\PokerDTOs\bin\Debug\netstandard2.0\PokerDTOs.deps.json
+C:\Trick Gaming Studios\PokerDTOs\bin\Debug\netstandard2.0\PokerDTOs.dll
+C:\Trick Gaming Studios\PokerDTOs\bin\Debug\netstandard2.0\PokerDTOs.pdb
+C:\Trick Gaming Studios\PokerDTOs\obj\Debug\netstandard2.0\PokerDTOs.csproj.AssemblyReference.cache
+C:\Trick Gaming Studios\PokerDTOs\obj\Debug\netstandard2.0\PokerDTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trick Gaming Studios\PokerDTOs\obj\Debug\netstandard2.0\PokerDTOs.AssemblyInfoInputs.cache
+C:\Trick Gaming Studios\PokerDTOs\obj\Debug\netstandard2.0\PokerDTOs.AssemblyInfo.cs
+C:\Trick Gaming Studios\PokerDTOs\obj\Debug\netstandard2.0\PokerDTOs.csproj.CoreCompileInputs.cache
+C:\Trick Gaming Studios\PokerDTOs\obj\Debug\netstandard2.0\PokerDTOs.dll
+C:\Trick Gaming Studios\PokerDTOs\obj\Debug\netstandard2.0\PokerDTOs.pdb

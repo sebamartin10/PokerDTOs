@@ -4,7 +4,8 @@ using System.Text;
 
 namespace PokerDTOs
 {
-    internal class ExampleClass
+    public class ExampleClass
     {
+
     }
 }
