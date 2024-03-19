@@ -3,6 +3,7 @@
   <metadata>
     <id>PokerDTOs</id>
     <version>1.0.0</version>
+    <title>PokerDTOs</title>
     <authors>PokerDTOs</authors>
     <description>Package Description</description>
     <dependencies>
