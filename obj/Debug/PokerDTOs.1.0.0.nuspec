@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>PokerDTOs</id>
+    <version>1.0.0</version>
+    <authors>PokerDTOs</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Trick Gaming Studios\PokerDTOs\bin\Debug\netstandard2.0\PokerDTOs.dll" target="lib\netstandard2.0\PokerDTOs.dll" />
+  </files>
+</package>
