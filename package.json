@@ -1,0 +1,10 @@
+{
+  "name": "poker-dtos-dependencies",
+  "version": "1.0.0",
+  "displayName": "Poker DTOs",
+  "description": "Data transfer object package for the Poker project",
+  "unity": "2022.3",
+  "dependencies": {
+   
+  }
+}
